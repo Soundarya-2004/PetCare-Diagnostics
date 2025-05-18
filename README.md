@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PetCare Diagnostics
 
 PetCare Diagnostics is a web platform designed to help pet owners understand, diagnose, and care for their pets. The platform provides interactive tools, educational resources, and a disease database for dogs, cats, and other pets.
@@ -57,3 +58,7 @@ This project is for educational purposes only and is not a substitute for profes
 ---
 
 **Disclaimer:** The information provided on this platform is for educational purposes and should not be considered as veterinary advice. Always consult a licensed veterinarian for your pet’s health concerns.
+=======
+# PetCare-Diagnostics
+Your Pet's Health, In Your Hands Understand and diagnose potential health issues in your pets with our interactive platform. Access expert resources on pet habits, diseases, and overall well-being.
+>>>>>>> d90d9d63cb3f5c8351700f9d8bfa5377e6417485
